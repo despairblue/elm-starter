@@ -4,7 +4,6 @@
 
 1. git clone https://github.com/splodingsocks/elm-starter
 2. cd elm-starter
-2. Install Elm
 3. `npm install`
 4. `npm start`
 5. Have a great time
